@@ -6,7 +6,7 @@ Overview:
 
 The repository covers a wide range of image processing techniques, starting from basic operations to more advanced tasks, offering practical learning experiences. Each lab program is accompanied by explanations of key concepts and methodologies used in the implementation. The goal is to bridge the gap between theory and practical application in image processing.
 
-Key Learnings::
+Key Learnings:
 
 1.Basic Image Manipulation: Loading, saving, and displaying images using Python.
 2.Image Filtering: Applying linear and non-linear filters like Gaussian, median, and custom filters.
